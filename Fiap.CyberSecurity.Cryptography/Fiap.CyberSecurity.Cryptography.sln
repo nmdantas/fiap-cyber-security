@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CyberSecurity.Cryptography", "Fiap.CyberSecurity.Cryptography\Fiap.CyberSecurity.Cryptography.csproj", "{6ED89BCD-D607-42B0-A8B7-E885A556E336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.CyberSecurity.Presentation", "Fiap.CyberSecurity.Presentation\Fiap.CyberSecurity.Presentation.csproj", "{2338061D-4139-4567-B1C7-815C34CE7C73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED89BCD-D607-42B0-A8B7-E885A556E336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED89BCD-D607-42B0-A8B7-E885A556E336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED89BCD-D607-42B0-A8B7-E885A556E336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED89BCD-D607-42B0-A8B7-E885A556E336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2338061D-4139-4567-B1C7-815C34CE7C73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2338061D-4139-4567-B1C7-815C34CE7C73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2338061D-4139-4567-B1C7-815C34CE7C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2338061D-4139-4567-B1C7-815C34CE7C73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937E0D6D-1EC8-41B5-81C6-098A670D9600}
+	EndGlobalSection
+EndGlobal
